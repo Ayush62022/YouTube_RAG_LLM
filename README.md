@@ -41,3 +41,5 @@ By combining different processing chains, the script can handle more complex que
 
 #### Utilizing Pinecone for Scalable Vector Search:
 Finally, it demonstrates setting up a Pinecone vector store for scalable and efficient similarity searches, which is especially useful for larger datasets or more complex queries.
+
+![Screenshot 2024-03-18 132349](https://github.com/Ayush62022/YouTube_RAG_LLM/assets/140695614/2323fde6-82a3-4b54-9807-5c7b23297655)
